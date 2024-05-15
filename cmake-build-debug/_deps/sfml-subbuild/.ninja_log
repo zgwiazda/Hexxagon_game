@@ -1,0 +1,21 @@
+# ninja log v5
+0	65	1685434126671960391	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	bcee74703ac35d99
+9081	9157	1685434135766929519	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	36e7a2ce5d0a9834
+8945	9020	1685434135630052979	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	592b51313b820ecb
+66	8713	1685434135323298778	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	b3fa61858d07e84d
+8715	8759	1685434135369404084	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4dbfb93f08baa748
+8759	8829	1685434135438322955	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	10012987828627d9
+0	65	1685434126671960391	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	bcee74703ac35d99
+9020	9081	1685434135691400745	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	c2a2cc12048c23ed
+8829	8885	1685434135494998006	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	a98028511561ab7c
+9020	9081	1685434135691400745	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	c2a2cc12048c23ed
+8885	8945	1685434135553759464	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	ecc7e05bf47607e2
+8759	8829	1685434135438322955	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	10012987828627d9
+8829	8885	1685434135494998006	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	a98028511561ab7c
+8885	8945	1685434135553759464	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	ecc7e05bf47607e2
+9081	9157	1685434135766929519	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	36e7a2ce5d0a9834
+9081	9157	1685434135766929519	CMakeFiles/sfml-populate-complete	36e7a2ce5d0a9834
+9081	9157	1685434135766929519	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	36e7a2ce5d0a9834
+8715	8759	1685434135369404084	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	4dbfb93f08baa748
+66	8713	1685434135323298778	/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	b3fa61858d07e84d
+8945	9020	1685434135630052979	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	592b51313b820ecb

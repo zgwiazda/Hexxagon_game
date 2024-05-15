@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/zuziagwiazda/CLionProjects/hexprojektfinal/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
